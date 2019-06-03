@@ -1,0 +1,2 @@
+# whale
+Fix minor bugs
